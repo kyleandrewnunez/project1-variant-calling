@@ -1,0 +1,11 @@
+# Raw and processed data — too large for GitHub
+data/raw/
+data/processed/
+results/
+
+# Conda
+*.pyc
+__pycache__/
+
+# Mac junk
+.DS_Store
