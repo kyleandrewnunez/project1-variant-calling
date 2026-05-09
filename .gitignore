@@ -9,3 +9,5 @@ __pycache__/
 
 # Mac junk
 .DS_Store
+!results/*.vcf
+!results/*.vcf.idx
